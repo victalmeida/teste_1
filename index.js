@@ -5,3 +5,6 @@ console.log('second commit');
 
 
 console.log('in the middle of somithing');
+
+
+console.log('Fix the bug');
